@@ -50,4 +50,7 @@ p {
 label {
   font-size: 14px;
 }
+input[type=text], input[type=email], input[type=number], textarea {
+  border-radius: 4px;
+}
 
